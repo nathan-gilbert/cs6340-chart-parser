@@ -1,0 +1,19 @@
+S -> NP VP
+NP -> article NP1
+NP -> NP1
+NP1 -> adjective NP1
+NP1 -> NP2
+NP2 -> noun
+NP2 -> noun NP2
+NP2 -> noun PP
+PP -> preposition NP
+PP -> preposition NP PP
+VP -> verb
+VP -> verb NP
+VP -> verb NP adverb
+VP -> verb NP adverb PP
+VP -> verb NP PP
+VP -> verb verb PP
+VP -> adverb verb
+VP -> adverb verb NP
+VP -> adverb verb PP
