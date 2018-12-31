@@ -1,8 +1,5 @@
 #!/usr/bin/python
-#######Nathan Gilbert
-######chartparser.py
-#####Septemember 5, 2006
-####CS 6340 - Natural Language Processing
+#CS 6340 - Natural Language Processing
 
 import sys
 from string import strip, lower
